@@ -1,7 +1,7 @@
-Open the Windows/Mac/Linux Command prompt 
+#Open the Windows/Mac/Linux Command prompt 
 
-CD fahad_wangde_assignment
+#CD fahad_wangde_assignment
 
-Then to run/execute the application type the command in the Command prompt below:
+#Then to run/execute the application type the command in the Command prompt below:
 
 .\run.bat
